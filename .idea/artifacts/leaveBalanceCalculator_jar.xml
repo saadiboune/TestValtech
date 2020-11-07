@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="leaveBalanceCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/leaveBalanceCalculator_jar</output-path>
+    <root id="archive" name="leaveBalanceCalculator.jar">
+      <element id="module-output" name="leaveBalanceCalculator" />
+    </root>
+  </artifact>
+</component>
